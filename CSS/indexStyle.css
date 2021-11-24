@@ -15,21 +15,26 @@ body{
       "nav content content";
   }
   
-.header { grid-area: header; }
+.header { 
+  grid-area: header; 
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 350%;
+  text-decoration: underline overline;
+}
 
-.nav { grid-area: nav; }
+.nav { 
+  grid-area: nav;;
+}
 
-.content { grid-area: content; }
+
+.content { 
+  grid-area: content; 
+}
   
 h1{
-
 }
 
-header{
-    background-color: rgb();
-    text-align: center;
-}
-
-a{
-
+a{ 
+  color:#c9e2fa;
 }
