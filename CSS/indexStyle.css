@@ -1,0 +1,35 @@
+body{
+  background-color: #353434;
+  color: #c9e2fa;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 0.7fr 1.3fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "header header header"
+      "nav content content"
+      "nav content content";
+  }
+  
+.header { grid-area: header; }
+
+.nav { grid-area: nav; }
+
+.content { grid-area: content; }
+  
+h1{
+
+}
+
+header{
+    background-color: rgb();
+    text-align: center;
+}
+
+a{
+
+}
