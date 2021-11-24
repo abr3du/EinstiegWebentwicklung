@@ -50,6 +50,7 @@ body {
       "nav content content"
       "nav content content";
   }
+<<<<<<< HEAD
 
   .header {
     grid-area: header;
@@ -74,3 +75,29 @@ body {
   a {
   }
 }
+=======
+  
+.header { 
+  grid-area: header; 
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 350%;
+  text-decoration: underline overline;
+}
+
+.nav { 
+  grid-area: nav;;
+}
+
+
+.content { 
+  grid-area: content; 
+}
+  
+h1{
+}
+
+a{ 
+  color:#c9e2fa;
+}
+>>>>>>> ee198eac30e044805be8a654628da7c2c26d9cba
