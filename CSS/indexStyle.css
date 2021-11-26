@@ -38,22 +38,26 @@ body {
   }
 }
 
+.footer {
+  background-color: red;
+}
+
+.footer .icons {
+  font-size: 1em;
+}
+
 @media screen and (min-width: 40em) {
   .container {
     display: grid;
     grid-template-columns: 0.7fr 1.3fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
-    gap: 0px 0px;
+    gap: 0.4em;
     grid-auto-flow: row;
     grid-template-areas:
       "header header header"
       "nav content content"
-      "nav content content";
-  }
-<<<<<<< HEAD
-
-  .header {
-    grid-area: header;
+      "nav content content"
+      "footer footer footer";
   }
 
   .nav {
@@ -64,36 +68,28 @@ body {
     grid-area: content;
   }
 
-  h1 {
-  }
 
-  header {
-    background-color: rgb();
-    text-align: center;
-  }
-
-  a {
-  }
-}
-=======
-  
-.header { 
-  grid-area: header; 
+.header {
+  grid-area: header;
   font-variant: small-caps;
   text-align: center;
-  font-size: 350%;
+  font-size: 200%;
   text-decoration: underline overline;
+  text-align: center;
 }
 
 
 
-.content { 
-  grid-area: content; 
-}
-  
-h1{
+.footer-content {
+  text-align: center;
+  font-size: 0.8em;
+  margin: 0.8em;
+  padding: 0;
+  border: 0;
 }
 
-a{ 
-  color:#c9e2fa;
+
+
+a {
+  color: #c9e2fa;
 }
