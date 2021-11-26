@@ -85,9 +85,6 @@ body {
   text-decoration: underline overline;
 }
 
-.nav { 
-  grid-area: nav;;
-}
 
 
 .content { 
