@@ -14,13 +14,12 @@ body {
     overflow: auto;
   }
 
-  .nav {
-    margin: 0;
-    padding: 0;
+  nav {
+
     background-color: #535554;
   }
 
-  .nav a {
+  nav a {
     display: block;
     color: white;
     text-decoration: none;
@@ -29,11 +28,11 @@ body {
     padding: 0.2em;
   }
 
-  .nav a:hover {
+  nav a:hover {
     background-color: #48cae4;
   }
 
-  .nav a.active {
+  nav a.active {
     background-color: #18728c;
   }
 }
