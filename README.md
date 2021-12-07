@@ -1,19 +1,16 @@
-# EinstiegWebentwicklung
+# EinstiegErdnussEntwicklung
 
-## Darts
+## Erdnuss
 ~
-### Romme
+### Butter
 ~
 #### Erdnussbutter
 ~
-_Spielen Spiele Spiele?_
+_Tausen kleine Peanuts und du musst Sie finden_
 ~
 *ja*
 ~
-__Das ist interessant__
-**Das stimmt.**
+__Das große Peanut Battle Royale!__
+**Und eine tapfere Mandel!.**
 ~
-Können wir __interessante__ _Spiele_ finden?
-
-
-{*Erdnussbutter*}
+Sei ein Teil des Peanut Teams für nur __300__ _€/$_ !!!
