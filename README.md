@@ -1,3 +1,13 @@
+# Peanutiswhatyouneed
+
+## Peanutiswhatyoueat
+
+### Peanutiswhatyoubleed
+
+#### P
+
+##### NUT
+=======
 # EinstiegErdnussEntwicklung
 
 ## Erdnuss
@@ -6,9 +16,9 @@
 ~
 #### Erdnussbutter
 ~
-_Tausen kleine Peanuts und du musst Sie finden_
+_Tausend kleine Peanuts und du musst Sie finden_
 ~
-*ja*
+*karööö*
 ~
 __Das große Peanut Battle Royale!__
 **Und eine tapfere Mandel!.**
